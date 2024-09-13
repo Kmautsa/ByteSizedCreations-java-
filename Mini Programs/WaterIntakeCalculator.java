@@ -1,0 +1,21 @@
+//Created by Kudzanai Mautsa
+	import java.util.Scanner;
+
+	public class WaterIntakeCalculator {
+	    public static void main(String[] args) {
+	        final int OUNCES_PER_GLASS = 8;
+	        final double ML_PER_OUNCE = 29.5735;
+
+	        Scanner scanner = new Scanner(System.in);
+
+	        System.out.print("Enter the number of water glasses: ");
+	        int glasses = scanner.nextInt();
+
+	        int totalOunces = glasses * OUNCES_PER_GLASS;
+	        int totalMilliliters = (int) (totalOunces * ML_PER_OUNCE);
+
+	        System.out.println("Your water intake was: " + totalOunces + " ounces or " + totalMilliliters + " milliliters.");
+
+	        scanner.close();
+	    }
+}
