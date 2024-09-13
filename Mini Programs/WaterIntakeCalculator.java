@@ -7,7 +7,7 @@
 	        final double ML_PER_OUNCE = 29.5735;
 
 	        Scanner scanner = new Scanner(System.in);
-
+		System.out.print("Welcome to my Water Intake Calculator!!!");
 	        System.out.print("Enter the number of water glasses: ");
 	        int glasses = scanner.nextInt();
 
