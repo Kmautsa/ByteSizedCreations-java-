@@ -14,7 +14,9 @@ public static void main(String[]Args) {
 			num =1;
 			System.out.println("You chose uppercase!!");
 			System.out.println("Enter your text: ");
-			String msg = kbd.nextLine;
+			String msg1 = kbd.nextLine;
+			String upper =msg1.toUpperCase();
+			System.out.println(upper);
 			System.out.println("Thank you for testing out my program!!");
 		}
 			break;
@@ -22,7 +24,9 @@ public static void main(String[]Args) {
 			num=2;
 			System.out.println("You chose lowercase!!");
 			System.out.println("Enter your text: ");
-			String msg = kbd.nextLine;
+			String msg2 = kbd.nextLine;
+			String lower =msg2.toLowerCase();
+			System.out.println(lower);
 			System.out.println("Thank you for testing out my program!!");
 		}
 			break;
