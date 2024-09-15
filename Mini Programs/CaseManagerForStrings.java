@@ -15,6 +15,7 @@ public static void main(String[]Args) {
 			System.out.println("You chose uppercase!!");
 			System.out.println("Enter your text: ");
 			String msg = kbd.nextLine;
+			System.out.println("Thank you for testing out my program!!");
 		}
 			break;
 		case 2:{
@@ -22,7 +23,7 @@ public static void main(String[]Args) {
 			System.out.println("You chose lowercase!!");
 			System.out.println("Enter your text: ");
 			String msg = kbd.nextLine;
-			System.out.println("Thank you for testing out my pero
+			System.out.println("Thank you for testing out my program!!");
 		}
 			break;
 		default:
