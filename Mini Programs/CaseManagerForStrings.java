@@ -12,6 +12,7 @@ public static void main(String[]Args) {
 	switch(num){
 		case 1:{
 			num =1;
+			System.out.println(
 			
 	}
 	String message1="Java i great fun";
