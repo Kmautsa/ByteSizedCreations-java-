@@ -9,7 +9,10 @@ public static void main(String[]Args) {
 	Scanner kbd = new Scanner(Sytstem.in);
 	System.out.println("Do you want to make text UpperCase(1) or LowerCase(2)?");
 	int num = kbd.nextInt;
-	Swich(num){
+	switch(num){
+		case 1:{
+			num =1;
+			
 	}
 	String message1="Java i great fun";
 	String uppercase = message1.toUpperCase();
