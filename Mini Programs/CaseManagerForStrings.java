@@ -12,7 +12,20 @@ public static void main(String[]Args) {
 	switch(num){
 		case 1:{
 			num =1;
-			System.out.println(
+			System.out.println("You chose uppercase!!");
+			System.out.println("Enter your text: ");
+			String msg = kbd.nextLine;
+		}
+			break;
+		case 2:{
+			num=2;
+			System.out.println("You chose lowercase!!");
+			System.out.println("Enter your text: ");
+			String msg = kbd.nextLine;
+		}
+			break;
+		default:
+			
 			
 	}
 	String message1="Java i great fun";
