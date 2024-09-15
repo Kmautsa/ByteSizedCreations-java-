@@ -1,5 +1,5 @@
 // A simple Java Program
-
+//Created by
 import java.util.Scanner;
 
 public class CaseManagerForStrings {
