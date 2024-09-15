@@ -22,15 +22,13 @@ public static void main(String[]Args) {
 			System.out.println("You chose lowercase!!");
 			System.out.println("Enter your text: ");
 			String msg = kbd.nextLine;
+			System.out.println("Thank you for testing out my pero
 		}
 			break;
 		default:
-			
+		System.out.println("Please make a choice.");
+			break;
 			
 	}
-	String message1="Java i great fun";
-	String uppercase = message1.toUpperCase();
-	String lowercase = message1.toLowerCase();
-	System.out.println(uppercase +"\n"+ lowercase);
 }
 }
