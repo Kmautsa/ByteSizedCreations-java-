@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Simple_Calculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//creating a new scanner object
 		Scanner kbd = new Scanner(System.in);
 		System.out.println("Welcome to my Simple Calculator !!");
 		System.out.println("Which operation do you want to use today?"+"(+,-,/,*)");
