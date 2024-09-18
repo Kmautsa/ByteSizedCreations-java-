@@ -8,6 +8,7 @@ public class Simple_Calculator {
 		System.out.println("Welcome to my Simple Calculator !!");
 		System.out.println("Which operation do you want to use today?"+"(+,-,/,*)");
 		System.out.println("{Enter choice}");
+		//user is prompted to enter choice
 		final String add ="+",subtraction="-",multiply="*",division="/";
 		String choice = kbd.nextLine();
 		switch(choice) {
