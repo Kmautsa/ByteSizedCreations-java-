@@ -11,7 +11,7 @@
 		System.out.print("Welcome to my Water Intake Calculator!!!");
 	        System.out.print("Enter the number of water glasses: ");
 	        int glasses = scanner.nextInt();
-
+		//the conversion calculations
 	        int totalOunces = glasses * OUNCES_PER_GLASS;
 	        int totalMilliliters = (int) (totalOunces * ML_PER_OUNCE);
 
