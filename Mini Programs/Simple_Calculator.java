@@ -11,6 +11,7 @@ public class Simple_Calculator {
 		//user is prompted to enter choice
 		final String add ="+",subtraction="-",multiply="*",division="/";
 		String choice = kbd.nextLine();
+		//case statements for each of the options that are available
 		switch(choice) {
 		case add:{
 			System.out.println("You chose Addition ");
