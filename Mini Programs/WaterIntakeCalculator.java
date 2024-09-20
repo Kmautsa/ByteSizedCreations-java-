@@ -1,4 +1,6 @@
-//Created by Kudzanai Mautsa
+/**
+*@author Kudzanai Mautsa
+*/
 	import java.util.Scanner;
 
 	public class WaterIntakeCalculator {
