@@ -1,4 +1,6 @@
-//Created by Kudzanai Mautsa
+/**
+*@author Kudzanai Mautsa
+*/
 public class Hello_World {
 
 	public static void main(String[] args) {
