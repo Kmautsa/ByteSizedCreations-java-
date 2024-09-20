@@ -1,5 +1,7 @@
 // A simple Java Program
-//Created by Kudzanai Mautsa
+/**
+*@author Kudzanai Mautsa
+*/
 import java.util.Scanner;
 
 public class CaseManagerForStrings {
