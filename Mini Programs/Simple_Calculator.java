@@ -1,5 +1,7 @@
 import java.util.Scanner;
-//Created by Kudzanai Mautsa
+/**
+*@author Kudzanai Mautsa
+*/
 public class Simple_Calculator {
 
 	public static void main(String[] args) {
