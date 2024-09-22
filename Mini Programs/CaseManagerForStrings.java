@@ -1,4 +1,4 @@
-// A simple Java Program
+// A simple Java Program(casemanager)
 /**
 *@author Kudzanai Mautsa
 */
