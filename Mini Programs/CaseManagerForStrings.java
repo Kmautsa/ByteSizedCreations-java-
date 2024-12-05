@@ -12,7 +12,7 @@ public static void main(String[]Args) {
 	System.out.println("Do you want to make text UpperCase(1) or LowerCase(2)?");
 	int num = kbd.nextInt; 
 	switch(num){  
-		case 1:{   
+		case 1:{    
 			num =1;
 			System.out.println("You chose uppercase!!");
 			System.out.println("Enter your text: ");
